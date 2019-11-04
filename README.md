@@ -1,2 +1,2 @@
-# Deep-Learning
-Useful scripts for deep learning
+# Deep Learning
+This repo contains some useful scripts for deep learning.
