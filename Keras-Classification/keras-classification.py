@@ -108,7 +108,7 @@ print ("Y_test shape: " + str(Y_test.shape))
 
 def kerasModel(input_shape):
     """
-    Implementation of the HappyModel.
+    Implementation of the kerasModel.
 
     Arguments:
     input_shape -- shape of the images of the dataset
